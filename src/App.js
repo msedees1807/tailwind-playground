@@ -1,13 +1,14 @@
-import './App.css';
-import Message from './message';
+import "./App.css";
+import Message from "./components/Message";
+import Nav from "./components/Nav";
 
 function App() {
   return (
     <div className="App">
-
-      <Message/>
-      
-
+      <Nav />
+      <Message />
+      <Message />
+      <Message />
     </div>
   );
 }
