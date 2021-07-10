@@ -1,12 +1,12 @@
 function About() {
   return (
-    <article className="text-left p-10 flex flex-col-reverse lg:flex-row">
+    <article className="text-left md:p-10 flex flex-col-reverse lg:flex-row">
       <img
-        className="pl-20 pr-20 pb-20 max-w-lg m-auto"
-        src="images/hallway.jpg"
+        className="pl-20 pr-20 pb-20 max-w-sm md:max-w-md m-auto"
+        src="http://localhost:3000/images/hallway.jpg"
         alt="Hallway in Amsterdam (2019)"
       />
-      <div className="p-20">
+      <div className="p-10 md:p-20 w-80ch">
         <h1 className="text-3xl pb-10 font-raleway">How it got started</h1>
         <p className="font-raleway pb-6">
           What are you passionate about? For me, it’s HÔWM. I’ve always loved

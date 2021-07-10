@@ -1,4 +1,4 @@
-const image = "images/vancouver.png";
+const image = "http://localhost:3000/images/vancouver.png";
 
 function blogCard() {
   return (
