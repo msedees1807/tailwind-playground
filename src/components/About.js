@@ -3,7 +3,7 @@ function About() {
     <article className="text-left p-10 flex flex-col-reverse lg:flex-row">
       <img
         className="pl-20 pr-20 pb-20 max-w-lg m-auto"
-        src="images/hallway.webp"
+        src="images/hallway.jpg"
         alt="Hallway in Amsterdam (2019)"
       />
       <div className="p-20">
