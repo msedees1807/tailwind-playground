@@ -3,7 +3,7 @@ function About() {
     <article className="text-left md:p-10 flex flex-col-reverse lg:flex-row">
       <img
         className="pl-20 pr-20 pb-20 max-w-sm md:max-w-md m-auto"
-        src="http://localhost:3000/images/hallway.jpg"
+        src="https://msedees1807.github.io/tailwind-playground/images/hallway.jpg"
         alt="Hallway in Amsterdam (2019)"
       />
       <div className="p-10 md:p-20 w-80ch">

@@ -4,7 +4,7 @@ function Hero() {
       <div
         className="bg-fixed w-full h-80"
         style={{
-          backgroundImage: `url("http://localhost:3000/images/vancouver.png")`,
+          backgroundImage: `url("https://msedees1807.github.io/tailwind-playground/images/vancouver.png")`,
           backgroundSize: "contain",
         }}
       ></div>

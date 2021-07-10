@@ -1,4 +1,5 @@
-const image = "http://localhost:3000/images/vancouver.png";
+const image =
+  "https://msedees1807.github.io/tailwind-playground/images/vancouver.png";
 
 function blogCard() {
   return (
